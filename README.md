@@ -1,0 +1,2 @@
+# Data-Structures-Algorithms
+This folder contains assignments from GVSU's undergraduate Data Structures and Algorithms class. Topics covered include: trees (binary search trees, red black trees, b-trees), graphs (maximum flow using Ford Fulkerson algorithm, topological sort), insertion sort, heaps, dynamic programming (knapsack problem), hash tables/collision resolution techniques, and run time analyses. 
