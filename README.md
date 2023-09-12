@@ -28,10 +28,10 @@ B-trees are self-balancing tree data structures commonly used in database system
 B-trees have the following properties:
 1. Every node 'x' has the following attributes:
    - n: the number of keys currently stored in node 'x'
-   - The 'n' keys themselves: k1, k2, ... kn, stored in nondecreasing order
+   - The 'n' keys themselves: k<sub>1</sub>, k<sub>2</sub>, ... k<sub>n</sub>, stored in nondecreasing order
    - x.leaf, a boolean value that is True is x is a leaf
    - Each internal node contains n keys and n+1 pointers
-2. All leaves have the same depth, which is the tree's height, h
+2. All leaves have the same depth, which is the tree's height, _h_
 3. Nodes have lower and upper bounds on the number of keys they contain
    - Lower bound: every node must have at least t-1 keys
    - Upper bound: every node may contain at most 2t-1 keys
