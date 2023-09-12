@@ -44,7 +44,7 @@ This script demonstrates how runtimes differ across functions with differing Big
 ### Binary Search Trees
 A binary search trees (BST) is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree. Find the script [here](https://github.com/jrkave/Data-Structures-Algorithms/blob/main/bst.py/). 
 
-### Dynamic Programming - Knapsack Proble
+### Dynamic Programming - Knapsack Problem
 This code demonstrates how to solve the knapsack problem with dynamic programming. It breaks down the knapsack problem into subproblems, stores the results in a matrix, and optimizes the subproblems to find the overall solution. The script can be found [here](https://github.com/jrkave/Data-Structures-Algorithms/blob/main/dp_knapsack.py/).
 
 ### Hash Tables and Collision Resolution Techniques
