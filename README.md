@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 ## Description
-This repository contains Python implementations of various data structures and algorithms, as assigned by Grand Valley State University's Data Structures and Algorithms course. As such, these scripts are designed as a learning resource for understanding the principles behind fundamental CS concepts.
+This repository contains Python implementations of various data structures and algorithms, as assigned by Grand Valley State University's Data Structures and Algorithms (CIS 263) course. As such, these scripts are designed as a learning resource for understanding the principles behind fundamental CS concepts.
 
 ## Table of Contents
 - B-Trees
